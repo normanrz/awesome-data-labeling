@@ -60,6 +60,7 @@ A curated list of awesome data labeling tools
 #### 3D
 
 * [KNOSSOS](https://github.com/knossos-project/knossos) - KNOSSOS is a software tool for the visualization and annotation of 3D image data and was developed for the rapid reconstruction of neural morphology and connectivity.
+* [webKnossos](https://webknossos.org) - webKnossos is a collaborative, web-based platform for visualizing, sharing and annotating large 3D image datasets.
 
 #### Lidar
 
